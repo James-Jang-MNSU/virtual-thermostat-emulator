@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThermostatEmulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e83f413c1c596522af1a4d42de2361a7c728d89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+619335fdd51b545c53ae61c61edd1ae497cefb72")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThermostatEmulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThermostatEmulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
