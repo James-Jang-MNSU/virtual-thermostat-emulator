@@ -8,4 +8,11 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="WatchdogScript\**" />
+    <EmbeddedResource Remove="WatchdogScript\**" />
+    <None Remove="WatchdogScript\**" />
+    <Page Remove="WatchdogScript\**" />
+  </ItemGroup>
+
 </Project>

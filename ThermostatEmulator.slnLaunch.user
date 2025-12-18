@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "..\\WatchdogScript\\WatchdogScript.csproj",
+        "Path": "WatchdogScript\\WatchdogScript.csproj",
         "Action": "Start"
       }
     ]
