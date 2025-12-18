@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ThermostatEmulator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WatchdogScript\\WatchdogScript.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
