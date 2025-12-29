@@ -1,4 +1,5 @@
 # Virtual Thermostat Emulator (HIL Simulation)
+![Thermostat Demo](thermostat_emulator_demo.gif)
 
 ## 📌 Project Overview
 This project is a software simulation of a Smart Thermostat designed to demonstrate **Hardware-in-the-Loop (HIL)** testing concepts. It consists of a WPF-based emulator that mimics physical device physics (thermal inertia, heating lag, sensor noise) and a separate "Watchdog" console application that monitors the device for critical failures.
